@@ -1,0 +1,25 @@
+{
+  "name": "color-util-nodejs",
+  "version": "1.0.2",
+  "description": "A color-util library with support for generating random colors and converting colors to different representations.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metahond/color-util-nodejs.git"
+  },
+  "keywords": [
+    "Color",
+    "Library"
+  ],
+  "author": "Metahond Development",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Metahond/color-util-nodejs/issues"
+  },
+  "homepage": "https://github.com/Metahond/color-util-nodejs#readme",
+  "types": "dist/index.d.ts"
+}
