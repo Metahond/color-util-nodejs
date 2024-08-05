@@ -22,7 +22,7 @@ You can find more examples in the examples directory.
 If you want to contribute to this project, feel free to choose an issue and create a pull request. 
 
 # 🤷‍♀️ Support
-If you need help with this library, check out our [Discord server](https://discord.metahond.codes) for help!
+If you need help with this library, check out our [Discord server](https://discord.metahond.dev) for help!
 
 # ⚖️ License
 This project is licensed under the [Apache 2.0 license](./LICENSE).
